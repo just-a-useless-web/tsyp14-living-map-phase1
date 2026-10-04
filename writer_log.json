@@ -1,0 +1,333 @@
+{
+  "t0_unix": 1791127072,
+  "t_end_unix": 1791127159,
+  "px_per_m": 20.0,
+  "entrance_pose": {
+    "x": 100.0,
+    "y": 100.0,
+    "theta_deg": 0.0
+  },
+  "events": [
+    {
+      "beacon_id": 4,
+      "event_type": 1,
+      "name": "Victim - unresponsive",
+      "priority": 7,
+      "est_x": 140.4,
+      "est_y": 527.9,
+      "confidence": 0.59,
+      "timestamp": 1791127077
+    },
+    {
+      "beacon_id": 9,
+      "event_type": 3,
+      "name": "Fire / high heat",
+      "priority": 6,
+      "est_x": 857.2,
+      "est_y": 114.9,
+      "confidence": 0.47,
+      "timestamp": 1791127089
+    },
+    {
+      "beacon_id": 13,
+      "event_type": 4,
+      "name": "Toxic gas / smoke",
+      "priority": 6,
+      "est_x": 879.9,
+      "est_y": 541.2,
+      "confidence": 0.43,
+      "timestamp": 1791127098
+    },
+    {
+      "beacon_id": 19,
+      "event_type": 2,
+      "name": "Victim - responsive",
+      "priority": 5,
+      "est_x": 416.7,
+      "est_y": 98.5,
+      "confidence": 0.97,
+      "timestamp": 1791127110
+    }
+  ],
+  "beacons_dropped": [
+    {
+      "id": 1,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 101.0,
+      "y": 338.6,
+      "timestamp": 1791127074,
+      "raw_hex": "000100c0776ac26e220153"
+    },
+    {
+      "id": 2,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 252.3,
+      "y": 428.0,
+      "timestamp": 1791127076,
+      "raw_hex": "00020096586ac26e24012f"
+    },
+    {
+      "id": 3,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 140.6,
+      "y": 490.5,
+      "timestamp": 1791127077,
+      "raw_hex": "000300eb406ac26e25014a"
+    },
+    {
+      "id": 4,
+      "kind": "event",
+      "event_type": 1,
+      "x": 122.8,
+      "y": 487.8,
+      "timestamp": 1791127077,
+      "raw_hex": "0004e106096ac26e250108"
+    },
+    {
+      "id": 5,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 336.0,
+      "y": 597.7,
+      "timestamp": 1791127081,
+      "raw_hex": "00050093786ac26e290100"
+    },
+    {
+      "id": 6,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 498.4,
+      "y": 421.5,
+      "timestamp": 1791127084,
+      "raw_hex": "0006005e786ac26e2c01cb"
+    },
+    {
+      "id": 7,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 499.5,
+      "y": 182.2,
+      "timestamp": 1791127086,
+      "raw_hex": "00070040786ac26e2e01d6"
+    },
+    {
+      "id": 8,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 737.8,
+      "y": 154.1,
+      "timestamp": 1791127088,
+      "raw_hex": "0008007b786ac26e3001fc"
+    },
+    {
+      "id": 9,
+      "kind": "event",
+      "event_type": 3,
+      "x": 841.5,
+      "y": 176.3,
+      "timestamp": 1791127089,
+      "raw_hex": "0009c389356ac26e310180"
+    },
+    {
+      "id": 10,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 790.6,
+      "y": 278.2,
+      "timestamp": 1791127090,
+      "raw_hex": "000a00d3396ac26e320115"
+    },
+    {
+      "id": 11,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 595.9,
+      "y": 418.0,
+      "timestamp": 1791127093,
+      "raw_hex": "000b00e7786ac26e350166"
+    },
+    {
+      "id": 12,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 752.4,
+      "y": 599.0,
+      "timestamp": 1791127096,
+      "raw_hex": "000c00a3786ac26e380128"
+    },
+    {
+      "id": 13,
+      "kind": "event",
+      "event_type": 4,
+      "x": 904.4,
+      "y": 597.5,
+      "timestamp": 1791127098,
+      "raw_hex": "000dc4804c6ac26e3a01f8"
+    },
+    {
+      "id": 14,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 743.7,
+      "y": 419.7,
+      "timestamp": 1791127101,
+      "raw_hex": "000e0022786ac26e3d01ae"
+    },
+    {
+      "id": 15,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 711.7,
+      "y": 315.3,
+      "timestamp": 1791127102,
+      "raw_hex": "000f0034376ac26e3e01f5"
+    },
+    {
+      "id": 16,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 905.0,
+      "y": 174.9,
+      "timestamp": 1791127105,
+      "raw_hex": "00100066776ac26e410187"
+    },
+    {
+      "id": 17,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 678.6,
+      "y": 97.3,
+      "timestamp": 1791127108,
+      "raw_hex": "0011000d786ac26e4401e7"
+    },
+    {
+      "id": 18,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 438.6,
+      "y": 97.5,
+      "timestamp": 1791127110,
+      "raw_hex": "00120000786ac26e4601eb"
+    },
+    {
+      "id": 19,
+      "kind": "event",
+      "event_type": 2,
+      "x": 406.6,
+      "y": 97.5,
+      "timestamp": 1791127110,
+      "raw_hex": "0013a200106ac26e460120"
+    },
+    {
+      "id": 20,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 337.4,
+      "y": 326.6,
+      "timestamp": 1791127113,
+      "raw_hex": "001400cc786ac26e49012e"
+    },
+    {
+      "id": 21,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 304.9,
+      "y": 490.8,
+      "timestamp": 1791127114,
+      "raw_hex": "001500c8546ac26e4a0104"
+    },
+    {
+      "id": 22,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 208.5,
+      "y": 452.5,
+      "timestamp": 1791127116,
+      "raw_hex": "0016000f346ac26e4c01a6"
+    },
+    {
+      "id": 23,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 198.6,
+      "y": 451.6,
+      "timestamp": 1791127116,
+      "raw_hex": "00170004056ac26e4c019d"
+    },
+    {
+      "id": 24,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 188.7,
+      "y": 452.9,
+      "timestamp": 1791127116,
+      "raw_hex": "001800fb056ac26e4c016d"
+    },
+    {
+      "id": 25,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 179.0,
+      "y": 455.2,
+      "timestamp": 1791127116,
+      "raw_hex": "001900f6056ac26e4c0161"
+    },
+    {
+      "id": 26,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 371.9,
+      "y": 597.6,
+      "timestamp": 1791127120,
+      "raw_hex": "001a009a786ac26e50016f"
+    },
+    {
+      "id": 27,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 497.9,
+      "y": 393.6,
+      "timestamp": 1791127123,
+      "raw_hex": "001b0057786ac26e5301a0"
+    },
+    {
+      "id": 28,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 515.8,
+      "y": 155.2,
+      "timestamp": 1791127125,
+      "raw_hex": "001c0043786ac26e5501b5"
+    },
+    {
+      "id": 29,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 755.6,
+      "y": 154.4,
+      "timestamp": 1791127127,
+      "raw_hex": "001d0080786ac26e570175"
+    },
+    {
+      "id": 30,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 855.5,
+      "y": 208.3,
+      "timestamp": 1791127128,
+      "raw_hex": "001e0094396ac26e58012c"
+    },
+    {
+      "id": 31,
+      "kind": "nav",
+      "event_type": 0,
+      "x": 735.6,
+      "y": 269.2,
+      "timestamp": 1791127130,
+      "raw_hex": "001f00ed436ac26e5a012c"
+    }
+  ]
+}
